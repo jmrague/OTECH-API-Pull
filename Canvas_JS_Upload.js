@@ -1,3 +1,13 @@
+window.rsConf = {docReader: {}};
+(function() {
+    jQuery.ajax({
+        url: "//cdn-na.readspeaker.com/script/7378/webReaderForEducation/canvas/current/ReadSpeaker.Canvas.js",
+        dataType: 'script',
+        async: true,
+        cache: true
+    });
+})();
+
 //const consumerkey = ConsumerKeyandShareSecret.env.CANVAS_CONSUMER_KEY;
 //const sharedsecret = ConsumerKeyandShareSecret.env.CANVAS_SHARED_SECRET;
 
