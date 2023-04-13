@@ -3,7 +3,7 @@
 
 // Set the Canvas API endpoint URL and access token
 const apiUrl = 'https://otech.instructure.com/api/v1';
-const accessToken = '2~xsaZy9gi2dJhTkZvAASVIujODfGThcLmlP8wVxaMcjDWA1lEhtQ9g7Yk3zR9pS48';
+const accessToken = '2~3q0YlhOYzEDjBWnYCE0MmUYNu45F2zsYOwiN6oeZQyEoXaQdCUEL4BJ8jzJskFgh';
 
 // Set the account ID and term ID for the courses you want to retrieve
 const accountId = '8';
